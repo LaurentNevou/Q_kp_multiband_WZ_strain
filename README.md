@@ -3,7 +3,7 @@ Computes the electronic band structure of bulk Wurtzite semiconductors.
 
 A database of the most common Wurtzite semiconductor is provided and can be adjusted.
 
-Two models are available:
+Two models are available WITH STRAIN:
 
 -> k.p 6 bands
 
